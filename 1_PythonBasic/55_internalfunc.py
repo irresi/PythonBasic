@@ -24,7 +24,8 @@ id(a) #같은 주소를 참조한다. 3은 int 타입의 객체이다.
 input() #문자열 입력함수
 
 int() #문자열 형태의 숫자 혹은 실수-> 정수
-
+int('11',2) #이진수 '11'을 10진수로 변환
+int('1A',16) # 16진수 '1A'를 10진수로 변환
 class Person: pass
 a = Person()
 isinstance(a, Person)
