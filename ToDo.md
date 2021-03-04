@@ -18,7 +18,8 @@
 - Deep learning
 
 <hr/>
-4. Economy Study
+4. Economics Study
+
 - newspaper
 - books
 
